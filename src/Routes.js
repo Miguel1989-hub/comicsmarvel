@@ -6,7 +6,7 @@ const RoutesApp = () => {
   return (
    <BrowserRouter>
     <Routes>
-      <Route path="/" element={<Home />} />
+      <Route path="/comicsmarvel" element={<Home />} />
     </Routes>
    </BrowserRouter>
   );
