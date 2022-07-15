@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+### The challenge
+
+Challenge Brisanet - Single Page Application para uma consulta de quadrinhos utilizando a API da Marvel para todos os consumos de dados.
+
+### Links
+
+- Live Site URL: 
+
+### Built with
+
+- Semantic HTML5 markup;
+- CSS custom properties;
+- Material UI;
+- ReactJs
+- React-router-dom;
+- Context API;
+- Axios.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
